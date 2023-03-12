@@ -1,0 +1,29 @@
+{
+    "name": "Cat Cute #2",
+    "description": "TrippyEggs DeFi: Mint | Stake | Earn.",
+    "image": "https://ipfs.io/ipfs/QmeZd79uUHRikVyfvvPv3TbRSv8tuJ9uCKfUTNCkL1t3mF",
+    "dna": "412969822GTE2",
+    "edition": 1,
+    "date": 1650153600,
+    "designer": "Lantuyan",
+    "external_url": "https://facebook.com/lantuyan",
+    "attributes": [
+        {
+            "trait_type": "TrippyEgg",
+            "value": "TrippyArt"
+        },
+        {
+            "trait_type": "Edition",
+            "value": "Genesis"
+        },
+        {
+            "trait_type": "Utility",
+            "value": "Membership Pass"
+        },
+        {
+            "trait_type": "Can_Stake",
+            "value": "Yes"
+        }
+    ],
+    "compiler": "lantuyan Code"
+}
